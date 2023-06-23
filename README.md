@@ -2,9 +2,9 @@
 
 ## ⭐CREDITS / ❗COPYRIGHT
 ```
-**Nano11Bravo** - Development
-**Impulse99 Community** - Testing
-**ZeroFour** - Reupload
+Nano11Bravo            Development
+Impulse99 Community    Testing
+ZeroFour               Reupload
 ```
 
 ## 📺Preview / Settings
