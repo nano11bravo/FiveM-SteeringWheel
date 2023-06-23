@@ -2,16 +2,6 @@
 This client-side plugin for FiveM will allow you to utilize any steering wheel controller as well as
 custom settings for a specific vehicle type. 
 
-## ⭐CREDITS / ❗COPYRIGHT
-```
-Nano11Bravo            Development
-Impulse99 Community    Testing
-ZeroFour               Reupload
-```
-
-## 📺Preview / Settings
-Coming Soon...
-
 ## 📗Installation
 1. Rightclick:  FiveM
 2. Click: Open file path
@@ -31,5 +21,12 @@ sv_scriptHookAllowed 0
 ```sv_scriptHookAllowed 0``` to ```sv_scriptHookAllowed 1```
 **⚠️Be careful! This allows Modmenus on the server and more plugins!**
 
-### ⚙️Setings
-All Settings can be found in the `ManualTransmission`.
+### ⚙️Setitngs
+All settings can be found in the `ManualTransmission`.
+
+## ⭐CREDITS
+```
+Nano11Bravo            Development
+Impulse99 Community    Testing
+ZeroFour               Reupload
+```
