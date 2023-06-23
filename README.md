@@ -1,9 +1,9 @@
 # 🔧FiveM-SteeringWheel
 
 ## ⭐CREDITS / ❗COPYRIGHT
-** Nano11Bravo ** - Development
-**Impulse99 Community ** - Testing
-**ZeroFour ** - Reupload
+1. Nano11Bravo - Development
+2. Impulse99 Community - Testing
+3. ZeroFour - Reupload
 
 
 ## 📺Preview / Settings
