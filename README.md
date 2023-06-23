@@ -1,4 +1,6 @@
-# 🔧FiveM-SteeringWheel
+# FiveM-SteeringWheel
+This client-side plugin for FiveM will allow you to utilize any steering wheel controller as well as
+custom settings for a specific vehicle type. 
 
 ## ⭐CREDITS / ❗COPYRIGHT
 ```
