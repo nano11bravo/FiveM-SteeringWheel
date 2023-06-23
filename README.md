@@ -1,11 +1,13 @@
-# 🔧FiveM-SteeringWheel-Compatible
+# 🔧FiveM-SteeringWheel
 
 ## ⭐CREDITS / ❗COPYRIGHT
-**I am not the owner. I don't know who is the owner, because my friend used this plugin 1 year ago and it was free. Maybe it was removed maybe, maybe not.
-If you are the creator and don't want this resource to be here on GitHub, just create an issue and pull request. It was a very good plugin, so I reuploaded it on GitHub.**
+**Nano11Bravo - Development
+**Impulse99 Community - Testing
+**ZeroFour - Reupload
+
 
 ## 📺Preview / Settings
-[Video](https://youtu.be/FqN7JuryX4A)
+Coming Soon...
 
 ## 📗Installation
 1. Rightclick:  FiveM
