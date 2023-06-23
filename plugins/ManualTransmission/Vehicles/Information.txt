@@ -1,3 +1,7 @@
+; nano11bravo <nano@seven-labs.com>
+; Released under the MIT License
+; -----------------------------------
+
 ; The script finds and uses .ini files in this folder.
 ; When your current car matches a model or a plate, the ini settings are
 ; used instead of the main script settings.
