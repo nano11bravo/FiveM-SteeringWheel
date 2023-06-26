@@ -1,4 +1,4 @@
-# FiveM-SteeringWheel
+# Wheel Support (FiveM Plugin)
 This client-side plugin for FiveM will allow you to utilize any steering wheel controller as well as
 custom settings for a specific vehicle type. 
 
@@ -19,7 +19,7 @@ sv_scriptHookAllowed 0
 ````
 8. Change
 ```sv_scriptHookAllowed 0``` to ```sv_scriptHookAllowed 1```
-**⚠️Be careful! This allows Modmenus on the server and more plugins!**
+**⚠️Please be mindful with setting this variable. It is always recommended to use an anti-cheat mod for FiveM server hosting. **
 
 ### ⚙️Setitngs
 All settings can be found in the `ManualTransmission`.
